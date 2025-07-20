@@ -1,0 +1,110 @@
+[
+  {
+    "nombre": "SIDECOM",
+    "lat": -9.117247558801877,
+    "lng": -78.51514377371998,
+    "ubi": "Urb. Bellamar Mz 5 Lt 17 II Etapa, Santa, Peru, 02712",
+    "equipos": ["usb", "cable", "calculadora científica", "memoria celular"],
+    "horario_cierre": "20:00",
+    "valoracion": 4.5
+  },
+  {
+    "nombre": "ULTRACOM",
+    "lat": -9.124781443560655,
+    "lng": -78.52801528906531,
+    "ubi": "Urb. Pacífico Mz i2 Lt 66, Chimbote, Peru, 02710",
+    "equipos": ["cable", "cargador", "periférico"],
+    "horario_cierre": "18:00",
+    "valoracion": 4.8
+  },
+  {
+    "nombre": "COMPUTER HOUSE",
+    "lat": -9.075845282967338,
+    "lng": -78.59220858812162,
+    "ubi": "Av. Pardo 620, Chimbote 02803",
+    "equipos": ["procesador", "motherboard", "ssd", "hdd", "laptop", "desktop", "all-in-one", "teclado", "mouse", "kit teclado y mouse", "adaptador", "cable", "auricular", "parlante", "cámara"],
+    "horario_cierre": "20:00",
+    "valoracion": 4.7
+  },
+  {
+    "nombre": "HAPPY PLAZA",
+    "lat": -9.074274483479769,
+    "lng": -78.59176494673899,
+    "ubi": "Jirón Leoncio Prado 603, Chimbote 02803",
+    "equipos": ["usb", "cable", "auricular", "mouse pad"],
+    "horario_cierre": "18:00",
+    "valoracion": 4.3
+  },
+  {
+    "nombre": "Innova Meganegocios",
+    "lat": -9.072657743227712,
+    "lng": -78.593553688122,
+    "ubi": "Jr, Jirón Ladislao Espinar 399, Chimbote 02800",
+    "equipos": ["teclado", "mouse", "parlante", "cámara web", "usb", "cooler", "repuesto", "impresora"],
+    "horario_cierre": "20:00",
+    "valoracion": 4.6
+  },
+  {
+    "nombre": "Overdrive Computer Services",
+    "lat": -9.144566941423607,
+    "lng": -78.50377406208352,
+    "ubi": "AAHH TERESA DE CALCUTA MZ H LT 12 - SAN LUIS, Nuevo Chimbote 02710",
+    "equipos": ["componente", "periférico"],
+    "horario_cierre": "18:00",
+    "valoracion": 4.5
+  },
+  {
+    "nombre": "Razor Technology",
+    "lat": -9.130969011977504,
+    "lng": -78.49693874673811,
+    "ubi": "Los Conquistadores Mz B, Nuevo Chimbote 02710",
+    "equipos": ["mouse", "teclado", "cargador", "adaptador", "cable", "parlante"],
+    "horario_cierre": "20:00",
+    "valoracion": 4.3
+  },
+  {
+    "nombre": "Blue Shop",
+    "lat": -9.117784261246776,
+    "lng": -78.52798416571727,
+    "ubi": "Av. Brasil Mz A L09, 02710",
+    "equipos": ["computadora", "televisor", "accesorio de cómputo"],
+    "horario_cierre": "18:00",
+    "valoracion": 4.8
+  },
+  {
+    "nombre": "PCS WORLD SRL",
+    "lat": -9.07294105415142,
+    "lng": -78.59271088997684,
+    "ubi": "Jr. Espinar #499 Esquina con, Manuel Villavicencio, Chimbote 02803",
+    "equipos": ["laptop", "desktop", "memoria ram", "disco", "periférico", "adaptador"],
+    "horario_cierre": "20:00",
+    "valoracion": 4.7
+  },
+  {
+    "nombre": "Grupo Company",
+    "lat": -9.075972449410886,
+    "lng": -78.59175794624136,
+    "ubi": "Av. Pardo 660, Chimbote 02800",
+    "equipos": ["carcasa celular", "cámara de seguridad", "iphone", "macbook"],
+    "horario_cierre": "18:00",
+    "valoracion": 4.0
+  },
+  {
+    "nombre": "COMPUMEX EIRL",
+    "lat": -9.072492887753754,
+    "lng": -78.59313299075664,
+    "ubi": "Jirón Ladislao Espinar 429, Chimbote 02803",
+    "equipos": ["mouse", "teclado", "auricular", "router"],
+    "horario_cierre": "20:00",
+    "valoracion": 4.6
+  },
+  {
+    "nombre": "Centro Comercial Cybertech",
+    "lat": -9.072365752362394,
+    "lng": -78.59324027912066,
+    "ubi": "Jirón Ladislao Espinar 417, Chimbote 05143",
+    "equipos": ["parlante", "impresora", "teclado", "mouse"],
+    "horario_cierre": "18:00",
+    "valoracion": 4.7
+  }
+]

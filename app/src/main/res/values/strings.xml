@@ -1,0 +1,7 @@
+<resources>
+    <string name="google_maps_key">AIzaSyCs-AfM4F_5E_ZYT4Ag3AmLsU3Lpk2M7h8</string>
+    <string name="app_name">AndroidApp_s13_TechPoint</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_map">TechPoint</string>
+    <string name="title_notifications">Notificaciones</string>
+</resources>
