@@ -79,7 +79,7 @@ https://github.com/user-attachments/assets/83024bc7-aadb-4b50-a272-dcd6dc9427ef
 │   └── 📄 AndroidManifest.xml                     # Declaración de componentes, permisos y mapa
 │
 ├── 📁 kotlin + java/
-│   └── 📦 com.tupackage.techpoint/
+│   └── 📦 com.episi.androidapp_s13_techpoint/
 │       ├── 📁 model/
 │       │   ├── 📄 Notification.kt                 # Modelo de notificación
 │       │   └── 📄 Tienda.kt                       # Modelo de tienda
