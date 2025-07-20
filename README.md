@@ -17,7 +17,9 @@
   <a href="https://developer.android.com/guide/topics/ui/menus" target="_blank"><img src="https://img.shields.io/badge/Android%20Menu-777777?style=for-the-badge&logo=android&logoColor=white" alt="Android Menu"></a>
 </p>
 
-## 📍 TechPoint – Encuentra tecnología cerca de ti
+# 📍 TechPoint
+
+**Encuentra tecnología cerca de ti**
 
 Una app móvil desarrollada en **Android Studio con Kotlin**, que ayuda a los usuarios a encontrar **componentes tecnológicos** en tiendas cercanas según su ubicación. Utiliza arquitectura **MVVM**, servicios de **Google Maps**, y patrones modernos de desarrollo con **LiveData**, **ViewModel** y **Material Components**.
 
